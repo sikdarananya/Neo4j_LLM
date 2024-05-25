@@ -1,0 +1,6 @@
+Ananya is a girl
+Aarush is a boy
+Ananya knows Aarush
+Aarush also knows Ananya
+Ananya is 23 years old
+Aarush is 10 years old
