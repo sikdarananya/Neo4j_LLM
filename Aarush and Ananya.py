@@ -69,7 +69,7 @@ print("Relationships:", relationships)
 from py2neo import Graph, Node, Relationship
 
 # Connect to Neo4j
-graph = Graph("bolt://localhost:7687", auth=("neo4j", "9321@Ananya"))
+graph = Graph("bolt://localhost:7687", auth=("neo4j", "password"))
 
 # Clear the graph (optional)
 graph.delete_all()
